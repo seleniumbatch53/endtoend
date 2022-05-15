@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Default suite"
+	parallel="tests">
+
+	<test verbose="3" name="Smoke Test In Chrome">
+		
+		<classes>
+			<class name="suites_demo.LoginPage" />
+			
+			<class name="suites_demo.MessengerPage" />
+			<class name="suites_demo.PlacesPage" />
+		</classes>
+	</test>
+
+</suite>          
+  
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
